@@ -30,7 +30,7 @@ export default function Experience() {
             </div>
             <div className="relative group cursor-pointer overflow-hidden">
               <Image
-                src={"/images/experiences/cold-river-dips.jpg"}
+                src={"/images/experiences/cold-river.jpg"}
                 alt="Cold river dips"
                 width={600}
                 height={500}
